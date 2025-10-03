@@ -11,3 +11,7 @@ Repo untuk belajar GitHub step-by-step.
 ## Description
 Repository ini hanya contoh untuk membuat 10 commit.
 Setiap commit berisi perubahan kecil tapi jelas.
+## Version
+0.1.0
+
+Lihat detail di [CHANGELOG.md](./CHANGELOG.md).
