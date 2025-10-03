@@ -15,3 +15,6 @@ Setiap commit berisi perubahan kecil tapi jelas.
 0.1.0
 
 Lihat detail di [CHANGELOG.md](./CHANGELOG.md).
+
+## Notes
+Commit ke-10 hanya contoh tambahan section di README.
